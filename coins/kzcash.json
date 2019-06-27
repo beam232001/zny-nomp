@@ -1,0 +1,8 @@
+{
+    "name": "Kzcash",
+    "symbol": "KZC",
+    "algorithm": "x11",
+    "mposDiffMultiplier": 256,
+    "peerMagic": "bd1b44ba",
+    "peerMagicTestnet": "cfe4cbca"
+}

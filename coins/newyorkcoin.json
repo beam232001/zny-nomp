@@ -1,0 +1,5 @@
+{
+    "name": "NewYorkcoin",
+    "symbol": "NYC",
+    "algorithm": "scrypt"
+}

@@ -1,0 +1,5 @@
+{
+    "name": "BitcoinSV",
+    "symbol": "BSV",
+    "algorithm": "sha256"
+}

@@ -1,0 +1,7 @@
+{
+    "name": "Genix",
+    "symbol": "GENIX",
+    "algorithm": "x16r",
+    "peerMagic": "cf4e3b49",
+    "peerMagicTestnet": "b1fbea75"
+}
