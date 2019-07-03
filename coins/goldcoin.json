@@ -1,0 +1,5 @@
+{
+    "name": "Goldcoin",
+    "symbol": "GLC",
+    "algorithm": "scrypt"
+}
